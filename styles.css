@@ -1,9 +1,18 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: black;
+    display: flex;
+    justify-content: space-between;
 }
 
 
 h1{
     color:white;
+    margin-left: 10px;
+}
+
+p {
+    font-size: 3.5rem;
+    margin-right: 25px;
+    cursor: pointer;
 }
